@@ -71,7 +71,7 @@ recipe of palak paneer
         <li>fresh cream touch up with coriander leaves</li>
 
     </ol>
-    <h2>Instructions</h2>
+
    
 
 </body>
